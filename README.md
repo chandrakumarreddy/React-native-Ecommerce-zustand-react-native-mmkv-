@@ -11,7 +11,7 @@ npx create-expo-app -e with-router-tailwind
 ## **Preview**
 
 ```
-![Image Preview 1](./preview-1.png "Preview 1")
+span
 ```
 
 <div style="display:flex;gap:16px;">
