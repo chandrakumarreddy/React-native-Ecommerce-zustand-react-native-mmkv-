@@ -16,6 +16,12 @@
       ]
     ],
     "name": "pixelated-image",
-    "slug": "pixelated-image"
+    "slug": "pixelated-image",
+    "android": {
+      "package": "com.chandra_orbitshift.pixelatedimage"
+    },
+    "ios": {
+      "bundleIdentifier": "io.expo.client"
+    }
   }
 }
