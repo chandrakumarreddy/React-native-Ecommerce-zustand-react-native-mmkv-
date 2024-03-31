@@ -10,7 +10,7 @@ npx create-expo-app -e with-router-tailwind
 
 ## **Preview**
 
-<div style="display:flex;gap:16px;">
-<img src='./preview-1.png' width="250" alt='Preview 1'>
+<div style="display:flex;">
+<img src='./preview-1.png' width="250" alt='Preview 1' style="margin-right:24px">
 <img src='./preview-2.png' width="250" alt='Preview 2'>
 </div>
